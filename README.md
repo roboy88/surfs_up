@@ -33,6 +33,6 @@ Surfs_up-Analysis Summary
 Average June temperature is 75 and Average December temperature is 71, which is not bad considering december month is a winter month
 In June also the minimum temperature is 64 only considering June is a Summer month. We might need to consider the precipitation also before staring an ice cream shop.
 December maximumn temperature is 83 which is a good sign to start an ice cream shop.
-Additional Queries:
+
 
 
